@@ -527,7 +527,7 @@ See the [LICENSE](LICENSE) file for the full license text.
 ## Credits
 
 This library is an original Ruby implementation inspired by the concepts of the
-Python Rich library by Will McGugan. All code is original and written specifically
+Python Rich library by Will McGugan [https://github.com/willmcgugan]. All code is original and written specifically
 for Ruby.
 
 Developed on Ruby 3.4.8 (MSVC) on Windows 10 64-bit (21H2) with Visual Studio 2026.
