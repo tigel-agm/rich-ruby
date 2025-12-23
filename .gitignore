@@ -1,0 +1,20 @@
+# Gem artifacts
+*.gem
+pkg/
+vendor/
+
+# Environment artifacts
+test_features_output.txt
+.ruby-version
+.ruby-gemset
+.tool-versions
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+tmp/
+log/
